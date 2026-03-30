@@ -1,5 +1,5 @@
-# miniguia-estudos-notebooklm
-Projeto de IA aplicada que transforma o NotebookLM em um professor de Ciência de Dados adaptado para autistas, explorando prompt engineering e aprendizagem estruturada.
+# projeto-ia-educacao-data-science-notebooklm
+Projeto de IA aplicada que transforma o NotebookLM em um professor de Ciência de Dados adaptado para autistas, ao explorar engenharia de prompt e aprendizado estruturado.
 
 ---
 
