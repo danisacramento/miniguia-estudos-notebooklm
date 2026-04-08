@@ -218,5 +218,5 @@ Este projeto demonstra que:
 
 ## 👩‍💻 Autor(a) - Danielle Sacramento
 
-- Projeto desenvolvido como parte do curso "Primeiro Passos com Inteligência Artificial"(DIO em parceria com a Lupo).  
+- Projeto desenvolvido como desafio do bootcamp da DIO.   
 ---
